@@ -30,7 +30,3 @@ To use this script, simply place it in the same directory as your Gaussian `.log
 ## License
 
 This project is open source and available under the MIT License.
-
-## Contact
-
-If you have any questions or feedback regarding this script, please feel free to open an issue in this repository.
